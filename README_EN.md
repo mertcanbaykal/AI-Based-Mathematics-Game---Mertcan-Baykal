@@ -1,9 +1,9 @@
 # AI Based Mathematics Game - Mertcan Baykal
 
 <p align="center">
-    <a href="readme.md">Türkçe</a>
+    <a href="README.md">Türkçe</a>
     ·
-    <a href="readme_en.md">English</a>
+    <a href="README_EN.md">English</a>
 </p>
 
 "AI Based Mathematics Game for 1st Grade Students" was developed by a 2 people team as the Thesis Project in 2021.
