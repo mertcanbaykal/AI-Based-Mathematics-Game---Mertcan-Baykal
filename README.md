@@ -1,5 +1,11 @@
 # AI Based Mathematics Game - Mertcan Baykal
 
+<p align="center">
+    <a href="readme.md">Türkçe</a>
+    ·
+    <a href="readme_en.md">English</a>
+</p>
+
 2021 yılında 2 kişilik bir ekip tarafından Lisans Tez Projesi olarak geliştirilen "1. Sınıf Öğrencileri için Yapay Zekâ Destekli Matematik Oyunu".
 
 Öğrencilerin konuyu pekiştirmesini sağlamayı amaçlayan, yapay zekâ destekli, soru – cevap formatında bir oyundur. Konu başlıkları; sayı sayma, toplama ve çıkartmadır. Yapay zekâ; öğrencinin hangi konuda soruyu yanlış yanıtladığını tespit eder, o konuda tekrar soru sorar ve o konuya çalışmasını tavsiye eder. Her konu için 30 farklı soru olmak üzere, toplamda 90 farklı soru içerir.
