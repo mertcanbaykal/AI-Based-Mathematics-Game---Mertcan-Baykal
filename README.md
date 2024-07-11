@@ -1,9 +1,9 @@
 # AI Based Mathematics Game - Mertcan Baykal
 
 <p align="center">
-    <a href="readme.md">Türkçe</a>
+    <a href="README.md">Türkçe</a>
     ·
-    <a href="readme_en.md">English</a>
+    <a href="README_EN.md">English</a>
 </p>
 
 2021 yılında 2 kişilik bir ekip tarafından Lisans Tez Projesi olarak geliştirilen "1. Sınıf Öğrencileri için Yapay Zekâ Destekli Matematik Oyunu".
